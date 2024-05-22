@@ -12,3 +12,6 @@ The training folder contains the notebook links for all 6 models: ConvNextV2, Sw
 The testing folder contains the notebooks for :
 1) running trained models on test dataset with average weighted ensemble
 2) finding optimal set of weights for weighted ensembling using differential evolution
+
+TODO:
+- Organize and upload notebooks used to train classical models as meta classifier
